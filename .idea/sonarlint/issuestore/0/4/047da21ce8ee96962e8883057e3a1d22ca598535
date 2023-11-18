@@ -1,0 +1,9 @@
+
+e
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ˆÀÿ 8°Ö½¾1
+¶
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(í”ÁÕ8³Ö½¾1
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8´Ö½¾1
+S
+java:S26961"6Make the enclosing method "static" or remove this set.(ìÙà½8¼Ö½¾1
